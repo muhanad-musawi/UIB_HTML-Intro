@@ -15,7 +15,6 @@ Webseite: [https://d02-2.github.io/UIB_HTML-Intro/]
 3. Öffnet die index.hmtl Datei bei euch im Browser: im Terminal `firefox index.html`
 4. Jeder von euch fügt 3 neue Tiere in die Liste ein
 5. Pushen, Pullrequest erstellen und mergen
-6. Besucht im Browser eure Webseite (https://{Benutzername}.github.io/UIB_HTML-Intro/)
 
 ### Achtung!:
 Benutzt bitte ein eigenen Branch und Pull Requests für eure Änderungen.
